@@ -27,7 +27,7 @@ remote_theme : mmistakes/minimal-mistakes
 
 # remote_theme           : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 
@@ -147,9 +147,9 @@ twitter:
 
 facebook:
 
-  username               : 박서연
+  username               : "박서연"
 
-  app_id                 : 
+  app_id                 : "amy9954"
 
   publisher              :
 
