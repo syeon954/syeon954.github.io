@@ -193,7 +193,7 @@ author:
 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
 
-  bio              : "저는 **중부대학교 2학년 정보보호학과 학생** 입니다."
+  bio              : "저는 **중부대학교 2학년 정보보호학과 학생** 입니다.<br> 열심히 배우겠습니다.<br><br> 저에 대해 궁금한 점이 있으시면 메일을 보내주세요."
 
   location         : "Ilsan, Korea"
 
@@ -279,7 +279,7 @@ footer:
 
       icon: "fab fa-fw fa-instagram"
 
-      # url: "https://www.instagram.com/syeon_9_9/"
+      # url: https://www.instagram.com/syeon_9_9/
 
 
 
