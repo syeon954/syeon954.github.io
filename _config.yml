@@ -147,9 +147,9 @@ twitter:
 
 facebook:
 
-  username               :
+  username               : 박서연
 
-  app_id                 :
+  app_id                 : 
 
   publisher              :
 
@@ -189,15 +189,15 @@ analytics:
 
 author:
 
-  name             : "Your Name"
+  name             : "Park Seo Yeon"
 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
 
-  bio              : "I am an **amazing** person."
+  bio              : "저는 **중부대학교 2학년 정보보호학과 학생** 입니다."
 
-  location         : "Somewhere"
+  location         : "Ilsan, Korea"
 
-  email            :
+  email            : " amy9954@naver.com"
 
   links:
 
